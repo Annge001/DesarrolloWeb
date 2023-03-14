@@ -1,0 +1,14 @@
+.container{
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+img{
+    width: 60%;
+}
+.header{
+    ;
+}
+.d-flex{
+    display:flex;
+}
